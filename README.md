@@ -8,6 +8,8 @@ application is meant to simulate a simple dating app. The application is impleme
 
 ## Demo
 
+https://intense-island-44197.herokuapp.com/
+
 ## Installation
 
 To install the application follow the instructions below:
