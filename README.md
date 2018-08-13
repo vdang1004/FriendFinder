@@ -7,8 +7,6 @@ implements friend matching based on the user's responses to a ten question surve
 application is meant to simulate a simple dating app. The application is implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server.
 
 ## Demo
-	
-(https://fierce-fortress-60021.herokuapp.com/).
 
 ## Installation
 
